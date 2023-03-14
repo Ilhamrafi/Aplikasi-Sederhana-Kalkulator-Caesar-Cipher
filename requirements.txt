@@ -1,5 +1,5 @@
 streamlit
 streamlit_lottie
 requests
-json
+json==4.17.3
 pip==23.0.1
