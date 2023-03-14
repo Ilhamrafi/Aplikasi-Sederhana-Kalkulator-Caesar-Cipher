@@ -1,0 +1,6 @@
+python==3.10.0.final.0
+streamlit
+streamlit_lottie
+requests
+json
+pip==23.0.1
